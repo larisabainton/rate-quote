@@ -1,0 +1,12 @@
+table,
+tr {
+    border: 1px solid #8D9E9E;
+}
+
+tr {
+    border-collapse: collapse;
+}
+
+th {
+    color: #8D9E9E;
+}

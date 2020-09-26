@@ -1,0 +1,15 @@
+button {
+    background-color: #203E3D;
+    border: 1px solid #203E3D;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    padding: 24px;
+}
+
+input,
+select {
+    border: 3px solid #DCE1E1;
+    font-size: 17px;
+    padding: 7px;
+}
